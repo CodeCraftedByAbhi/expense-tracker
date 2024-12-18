@@ -15,7 +15,7 @@ Expense Tracker is a powerful and user-friendly financial management application
 
 ## 🚀 Live Demo
 
-🔗 [Live Project Link]([#](https://expense-tracker-roan-ten-17.vercel.app/)) 
+🔗 Live at - https://expense-tracker-roan-ten-17.vercel.app/
 
 ---
 
