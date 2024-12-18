@@ -15,7 +15,7 @@ Expense Tracker is a powerful and user-friendly financial management application
 
 ## 🚀 Live Demo
 
-🔗 [Live Project Link](#) *(Update this link after deployment)*
+🔗 [Live Project Link]([#](https://expense-tracker-roan-ten-17.vercel.app/)) 
 
 ---
 
@@ -38,7 +38,7 @@ Looking to collaborate on web development projects? Reach out at **[codecraftedb
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/expense-tracker.git
+   git clone https://github.com/CodeCraftedByAbhi/expense-tracker.git
    ```
 
 2. Navigate to the project directory:
