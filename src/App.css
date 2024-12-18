@@ -1,0 +1,110 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-color: rgb(233, 237, 240);
+  margin: 20px;
+  font-family: Poppins;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.header {
+  font-weight: 300;
+}
+
+.balancesheet {
+  margin: 20px 0px;
+}
+
+.balancesheet h3 {
+  font-weight: 300;
+  margin: 10px 0px 0px 0px;
+}
+
+.balancesheet p {
+  font-weight: 500;
+  font-size: 50px;
+  margin: 0 10px;
+}
+
+.inc-exp-container {
+  background-color: white;
+  width: 20rem;
+  display: flex;
+  height: 100px;
+  justify-content: space-evenly;
+  align-items: center;
+  box-shadow: 1px 1px 10px rgb(117, 116, 116);
+  border-radius: 10px;
+}
+
+.transactionList {
+  padding: 20px 0;
+}
+
+.transactionList ul {
+  text-decoration: none;
+}
+
+.transactionList li span {
+  justify-self: end;
+}
+
+.form-control {
+  display: flex;
+  flex-direction: column;
+  padding: 5px 0;
+}
+
+.minus {
+  text-decoration: none;
+  list-style: none;
+  border-top: 1px solid black;
+  border-bottom: 1px solid black;
+  border-left: 1px solid black;
+  border-radius: 4px;
+  background-color: white;
+  margin-top: 10px;
+  display: flex;
+  justify-content: space-between;
+  padding: 0 10px;
+  align-items: center;
+  border-right: 4px solid red;
+}
+
+.plus {
+  text-decoration: none;
+  list-style: none;
+  border-top: 1px solid black;
+  border-bottom: 1px solid black;
+  border-left: 1px solid black;
+  border-radius: 4px;
+  background-color: white;
+  margin-top: 10px;
+  display: flex;
+  justify-content: space-between;
+  padding: 0 10px;
+  align-items: center;
+  border-right: 4px solid green;
+}
+
+.delete-btn{
+  border: none;
+  background-color: white;
+  cursor: pointer;
+}
+
+.plus span{
+  display: flex;
+  flex-direction: row;
+}
+
+.minus span{
+  display: flex;
+  flex-direction: row;
+}
