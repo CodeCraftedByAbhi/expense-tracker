@@ -21,7 +21,8 @@ Expense Tracker is a powerful and user-friendly financial management application
 
 ## 📷 Screenshots
 
-Add screenshots of the project here to showcase its features and interface.
+Added screenshots of the project here to showcase its features and interface.
+<img src="SS.png">
 
 ---
 
